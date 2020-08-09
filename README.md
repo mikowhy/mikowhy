@@ -14,7 +14,7 @@ Being a radio DJ with a philosophical twist is my passion and I have also spent 
 
 Some time ago I decided to go back to programming. My goal was to learn **Python** 🐍 so... here I am
 
-### 💟Interests
+### 💟 Interests
 People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria, Cyprus, my cat…
 
 ## 📬 Get in touch
