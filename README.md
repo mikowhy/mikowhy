@@ -31,8 +31,8 @@ People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria, Cypru
 
 ---
 
-|Technology|Repos|
-|---|---|
+| Technology | Repos |
+| :---------------: | --------------- |
 |**Python3**| - [50_python_questions](https://github.com/mikowhy/50_python_questions)<br>- [python-by-adrian-gonciarz](https://github.com/mikowhy/python-by-adrian-gonciarz) with [@adriangonciarz](https://github.com/adriangonciarz)|
 |**Django**| - [jobber](https://github.com/mikowhy/MPA_2020_Q2_final_project_CL_s22)<br>- [donate](https://github.com/mikowhy/WAR_PYT_S_22_oddam)<br>- [REST API](https://github.com/mikowhy/django-rest-framework-tutorial)|
 |**Docker**| - [techniqal-docker](https://github.com/mikowhy/techniqal-docker) with [@adriangonciarz](https://github.com/adriangonciarz)<br>- [basic docker](https://github.com/mikowhy/docker_exercise)|
