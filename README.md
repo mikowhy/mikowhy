@@ -25,7 +25,9 @@ People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria, Cypru
 
 [<img align="left" alt="Mikowhy - LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mikowhy - twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mikowhy - blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />][mail]
 [<img align="left" alt="Mikowhy - blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
 <br />
 
@@ -44,4 +46,5 @@ People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria, Cypru
 
 [linkedin]: https://www.linkedin.com/in/mikolajpaczkowski/
 [twitter]: https://twitter.com/mikowhy
+[mail]: mailto:mikolaj.paczkowski@gmail.com
 [website]: https://mikowhy.pl/
