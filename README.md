@@ -28,10 +28,18 @@ People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria, Cypru
 [<img align="left" alt="Mikowhy - blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />][mail]
 [<img align="left" alt="Mikowhy - blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-
 <br />
 
 ---
+
+## 📄 My CV
+[PDF version](2020_CV-Mikolaj_Paczkowski.pdf)
+
+
+
+---
+
+## 🤖 Some of my projects
 
 | Technology | Repos |
 | :---------------: | --------------- |
