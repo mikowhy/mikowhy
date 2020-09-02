@@ -33,7 +33,7 @@ People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria, Cypru
 ---
 
 ## 📄 My CV
-[PDF version](2020_CV-Mikolaj_Paczkowski.pdf)
+[PDF version](https://github.com/mikowhy/mikowhy/blob/master/2020_CV-Mikolaj_Paczkowski.pdf)
 
 
 
