@@ -2,7 +2,8 @@
 
 ### 👨‍💻Who am I?
 
-#### 1️⃣4️⃣ years in digital marketing made me understand that real power is in the technology. Looking for a job as a developer. 🐍 Python Developer 🐍
+#### 1️⃣4️⃣  years in digital marketing made me understand that real power is in the technology.
+#### Looking for a job as a developer. 🐍 Python Developer 🐍
 
 I am a person who is constantly trying to find **fulfilment** in life by following my dreams and values such a **honesty**, **truthfulness** and **transparency**.
 
@@ -17,7 +18,7 @@ Some time ago I decided to go back to programming. My goal is to learn **Python*
 ---
 
 ### 💟 Interests
-People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria, Cyprus, my cat…
+People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria 🇧🇬, Cyprus 🇨🇾, my cat… 🐈
 
 ---
 
