@@ -2,7 +2,7 @@
 
 ### 👨‍💻Who am I?
 
-#### 1️⃣4️⃣ years in digital marketing, wonna be 🐍 python dev!
+#### 1️⃣4️⃣ years in digital marketing made me understand that real power is in the technology. Looking for a job as a developer. 🐍 Python Developer 🐍
 
 I am a person who is constantly trying to find **fulfilment** in life by following my dreams and values such a **honesty**, **truthfulness** and **transparency**.
 
@@ -33,9 +33,7 @@ People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria, Cypru
 ---
 
 ## 📄 My CV
-[PDF version](https://github.com/mikowhy/mikowhy/blob/master/2020_CV-Mikolaj_Paczkowski.pdf)
-
-
+[PDF version](https://github.com/mikowhy/mikowhy/blob/master/2020_CV-Mikolaj-Paczkowski.pdf)
 
 ---
 
