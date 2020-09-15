@@ -49,10 +49,13 @@ People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria ðŸ‡§ðŸ
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikowhy&layout=compact&hide=Perl+6)](https://github.com/mikowhy/)
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikowhy&layout=compact&hide=Perl+6&hide_border=true)](https://github.com/mikowhy/)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mikowhy&count_private=true&show_icons=true&hide_border=true)](https://github.com/mikowhy/)
 
+</div>
 
 [linkedin]: https://www.linkedin.com/in/mikolajpaczkowski/
 [twitter]: https://twitter.com/mikowhy
