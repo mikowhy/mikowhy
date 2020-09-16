@@ -45,7 +45,16 @@ People, fulfilment, meaningfulness, wholeness, minimalism, teal, Bulgaria 🇧�
 |**Python3**| - [50_python_questions](https://github.com/mikowhy/50_python_questions)<br>- [python-by-adrian-gonciarz](https://github.com/mikowhy/python-by-adrian-gonciarz) with [@adriangonciarz](https://github.com/adriangonciarz)<br>- [daily-coding-problem](https://github.com/mikowhy/daily-coding-problem)<br>- [STX-python_dev_interview](https://github.com/mikowhy/STX-python_dev_interview)|
 |**Django**| - [jobber](https://github.com/mikowhy/MPA_2020_Q2_final_project_CL_s22)<br>- [donate](https://github.com/mikowhy/WAR_PYT_S_22_oddam)<br>- [REST API](https://github.com/mikowhy/django-rest-framework-tutorial)|
 |**Docker**| - [techniqal-docker](https://github.com/mikowhy/techniqal-docker) with [@adriangonciarz](https://github.com/adriangonciarz)<br>- [basic docker](https://github.com/mikowhy/docker_exercise)|
-<br />
+
+---
+
+## 😎 My contributions to open source projects
+
+| Project | My merged PRs |
+| -- | :--: |
+| [first-contributions](https://github.com/firstcontributions/first-contributions) | [PR](https://github.com/firstcontributions/first-contributions/pull/29885), [PR](https://github.com/firstcontributions/first-contributions/pull/29856) |
+|[ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board) | [PR](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/1432)|
+| [techniqal-docker](https://github.com/adriangonciarz/techniqal-docker) | [PR](https://github.com/adriangonciarz/techniqal-docker/pull/4), [PR](https://github.com/adriangonciarz/techniqal-docker/pull/3), [PR](https://github.com/adriangonciarz/techniqal-docker/pull/2)|
 
 ---
 
