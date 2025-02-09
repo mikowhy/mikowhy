@@ -1,12 +1,14 @@
 # 👋 Hi there, it's Mikolaj
 
-### 👨‍💻Who am I?
+## 👨‍💻 What I was doing?
 
 - 3️⃣ years 🐪 digital nomad
 - 4️⃣ `+` years 🐍 Python Developer @ [Merixstudio.com](https://www.merixstudio)
 - 1️⃣4️⃣  years 📊 digital marketing  (ex [Lidl](https://www.lidl.pl/) and [Allegro](https://allegro.pl/))
 
 ---
+
+## 👨‍💻 Who am I?
 
 Through various stages of my career, I have witnessed firsthand the transformative power of technology. I am committed to continuous learning, staying adaptable to new advancements while maintaining a critical perspective—leveraging technology thoughtfully rather than following trends blindly.
 
@@ -22,10 +24,14 @@ Being a radio DJ 🎧  with a philosophical twist 🤔 is my passion and I have 
 
 ---
 
+## 📩 Contact me
+
 - check my [Linkedin profile](https://www.linkedin.com/in/mikolajpaczkowski/)
 - download my [CV in pdf](Mikolaj_Paczkowski_CV.pdf)
 - [mikolaj.paczkowski@gmail.com](mailto:mikolaj.paczkowski@gmail.com)
 
 ---
+
+## 😁 Yep... that's me
 
 ![Mikolaj Paczkowski](mikolaj.jpeg)
