@@ -1,6 +1,6 @@
 # 👋 Hi there, it's Mikolaj
 
-## 👨‍💻 What I was doing?
+## 👨‍💻 What I have been doing?
 
 - 3️⃣ years 🐪 digital nomad
 - 4️⃣ `+` years 🐍 Python Developer @ [Merixstudio.com](https://www.merixstudio)
