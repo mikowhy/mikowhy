@@ -2,8 +2,9 @@
 
 ## 👨‍💻 What I have been doing?
 
-- 3️⃣ years 🐪 digital nomad
-- 4️⃣ `+` years 🐍 Python Developer @ [Merixstudio.com](https://www.merixstudio)
+- 💻 Developer @ [OLX.com](https://www.olx.pl/)
+- 3️⃣+ years 🐪 digital nomad
+- 5️⃣ years 🐍 Python Developer @ [Merixstudio.com](https://www.merixstudio.com/)
 - 1️⃣4️⃣  years 📊 digital marketing  (ex [Lidl](https://www.lidl.pl/) and [Allegro](https://allegro.pl/))
 
 ---
